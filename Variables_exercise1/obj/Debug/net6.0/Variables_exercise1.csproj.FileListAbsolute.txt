@@ -1,0 +1,15 @@
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\obj\Debug\net6.0\Variables_exercise1.csproj.AssemblyReference.cache
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\obj\Debug\net6.0\Variables_exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\obj\Debug\net6.0\Variables_exercise1.AssemblyInfoInputs.cache
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\obj\Debug\net6.0\Variables_exercise1.AssemblyInfo.cs
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\obj\Debug\net6.0\Variables_exercise1.csproj.CoreCompileInputs.cache
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\bin\Debug\net6.0\Variables_exercise1.exe
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\bin\Debug\net6.0\Variables_exercise1.deps.json
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\bin\Debug\net6.0\Variables_exercise1.runtimeconfig.json
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\bin\Debug\net6.0\Variables_exercise1.dll
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\bin\Debug\net6.0\Variables_exercise1.pdb
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\obj\Debug\net6.0\Variables_exercise1.dll
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\obj\Debug\net6.0\refint\Variables_exercise1.dll
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\obj\Debug\net6.0\Variables_exercise1.pdb
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\obj\Debug\net6.0\Variables_exercise1.genruntimeconfig.cache
+C:\Users\jcorb\OneDrive\Desktop\Repos\Variables_exercise1\Variables_exercise1\obj\Debug\net6.0\ref\Variables_exercise1.dll
